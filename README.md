@@ -12,22 +12,6 @@ Este proyecto consiste en una tienda online ficticia dedicada a la venta de ropa
 
 ---
 
-## 📁 Estructura del Proyecto
-
-isabellas-fashion/
-├── index.html # Página principal
-├── assets/
-│ ├── css/
-│ │ └── style.css # Estilos CSS principales
-│ └── images/ # Imágenes de productos
-└── README.md # Este archivo
-
-yaml
-Copiar
-Editar
-
----
-
 ## 🎨 Características de Estilo (Box Model)
 
 ✅ Contenedor principal con:
